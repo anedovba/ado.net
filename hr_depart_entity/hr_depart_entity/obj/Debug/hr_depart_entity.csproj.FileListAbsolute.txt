@@ -1,0 +1,12 @@
+D:\ШАГ\Project\ADO.net\hr_depart_entity\hr_depart_entity\bin\Debug\hr_depart_entity.exe
+D:\ШАГ\Project\ADO.net\hr_depart_entity\hr_depart_entity\bin\Debug\hr_depart_entity.pdb
+D:\ШАГ\Project\ADO.net\hr_depart_entity\hr_depart_entity\obj\Debug\hr_depart_entity.csprojResolveAssemblyReference.cache
+D:\ШАГ\Project\ADO.net\hr_depart_entity\hr_depart_entity\obj\Debug\hr_depart_entity.Form1.resources
+D:\ШАГ\Project\ADO.net\hr_depart_entity\hr_depart_entity\obj\Debug\hr_depart_entity.Properties.Resources.resources
+D:\ШАГ\Project\ADO.net\hr_depart_entity\hr_depart_entity\obj\Debug\hr_depart_entity.csproj.GenerateResource.Cache
+D:\ШАГ\Project\ADO.net\hr_depart_entity\hr_depart_entity\obj\Debug\hr_depart_entity.exe
+D:\ШАГ\Project\ADO.net\hr_depart_entity\hr_depart_entity\obj\Debug\hr_depart_entity.pdb
+D:\ШАГ\Project\ADO.net\hr_depart_entity\hr_depart_entity\bin\Debug\hr_depart_entity.exe.config
+D:\ШАГ\Project\ADO.net\hr_depart_entity\hr_depart_entity\bin\Debug\EntityFramework.dll
+D:\ШАГ\Project\ADO.net\hr_depart_entity\hr_depart_entity\bin\Debug\EntityFramework.xml
+D:\ШАГ\Project\ADO.net\hr_depart_entity\hr_depart_entity\obj\Debug\hr_depart_entity.Form2.resources
