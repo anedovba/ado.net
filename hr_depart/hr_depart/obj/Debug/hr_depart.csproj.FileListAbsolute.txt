@@ -1,0 +1,11 @@
+D:\ШАГ\Project\ADO.net\HR\hr_depart\hr_depart\bin\Debug\Database1.mdf
+D:\ШАГ\Project\ADO.net\HR\hr_depart\hr_depart\bin\Debug\Database1_log.ldf
+D:\ШАГ\Project\ADO.net\HR\hr_depart\hr_depart\bin\Debug\hr_depart.exe
+D:\ШАГ\Project\ADO.net\HR\hr_depart\hr_depart\bin\Debug\hr_depart.pdb
+D:\ШАГ\Project\ADO.net\HR\hr_depart\hr_depart\obj\Debug\hr_depart.csprojResolveAssemblyReference.cache
+D:\ШАГ\Project\ADO.net\HR\hr_depart\hr_depart\obj\Debug\hr_depart.Form1.resources
+D:\ШАГ\Project\ADO.net\HR\hr_depart\hr_depart\obj\Debug\hr_depart.Properties.Resources.resources
+D:\ШАГ\Project\ADO.net\HR\hr_depart\hr_depart\obj\Debug\hr_depart.csproj.GenerateResource.Cache
+D:\ШАГ\Project\ADO.net\HR\hr_depart\hr_depart\obj\Debug\hr_depart.exe
+D:\ШАГ\Project\ADO.net\HR\hr_depart\hr_depart\obj\Debug\hr_depart.pdb
+D:\ШАГ\Project\ADO.net\HR\hr_depart\hr_depart\obj\Debug\hr_depart.Form2.resources
